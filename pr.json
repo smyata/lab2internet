@@ -1,6 +1,6 @@
 [
-  {name:"apple", count: 5, price: 70},
-  {name:"orange", count: 10, price: 90},
-  {name:"lemon", count: 15, price: 80},
-  {name:"mango", count: 7, price: 150}
+  {"name":"apple", "count": 5, "price": 70},
+  {"name":"orange", "count": 10, "price": 90},
+  {"name":"lemon", "count": 15, "price": 80},
+  {"name":"mango", "count": 7, "price": 150}
 ]
